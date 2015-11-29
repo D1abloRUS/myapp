@@ -6,4 +6,4 @@
 
 ## Usage:
 - http://server_ip:8080/ping
-- http://server_ip:8080/ping
+- http://server_ip:8080/date
